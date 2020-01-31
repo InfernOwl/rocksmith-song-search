@@ -1,0 +1,2148 @@
+{
+    "dgvSongsMaster": [
+        {
+            "rowId": 0,
+            "colArtist": "Mastodon",
+            "colTitle": "Blood and Thunder",
+            "colAlbum": "Leviathan",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 1,
+            "colArtist": "R.E.M.",
+            "colTitle": "Losing My Religion",
+            "colAlbum": "Out Of Time",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 2,
+            "colArtist": "Queen",
+            "colTitle": "We Are the Champions",
+            "colAlbum": "News of the World",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 3,
+            "colArtist": "EarlyRise",
+            "colTitle": "Wasteland",
+            "colAlbum": "Willful Wreckords: International Breakfast",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 4,
+            "colArtist": "Magic Wands",
+            "colTitle": "Black Magic",
+            "colAlbum": "Magic Love and Dreams",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 5,
+            "colArtist": "Ramones",
+            "colTitle": "Blitzkrieg Bop",
+            "colAlbum": "Ramones",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 6,
+            "colArtist": "La Sera",
+            "colTitle": "Love That's Gone",
+            "colAlbum": "La Sera",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 7,
+            "colArtist": "Radiohead",
+            "colTitle": "Paranoid Android",
+            "colAlbum": "OK Computer",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 8,
+            "colArtist": "Fang Island",
+            "colTitle": "Chompers",
+            "colAlbum": "Major",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 9,
+            "colArtist": "The Dear Hunter",
+            "colTitle": "Stuck On a Wire Out On a Fence",
+            "colAlbum": "The Color Spectrum the Complete Collection",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 10,
+            "colArtist": "Crimson",
+            "colTitle": "Don't Stop",
+            "colAlbum": "Crimson",
+            "colArrangements": "Bass, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 11,
+            "colArtist": "Playground Kings",
+            "colTitle": "Self Trap",
+            "colAlbum": "Blackhole Sessions",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 12,
+            "colArtist": "Monster Truck",
+            "colTitle": "Sweet Mountain River",
+            "colAlbum": "Furiosity",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 13,
+            "colArtist": "Minus The Bear",
+            "colTitle": "Cold Company",
+            "colAlbum": "Infinity Overhead",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 14,
+            "colArtist": "The Kinks",
+            "colTitle": "You Really Got Me",
+            "colAlbum": "Kinks",
+            "colArrangements": "Bass, Lead, Rhythm, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 15,
+            "colArtist": "Deftones",
+            "colTitle": "My Own Summer (Shove It)",
+            "colAlbum": "Around the Fur",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 16,
+            "colArtist": "Disonaur",
+            "colTitle": "Sea to Swallow",
+            "colAlbum": "Sea To Swallow",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 17,
+            "colArtist": "Matt Montgomery, Brian McCune, Brendan West",
+            "colTitle": "On Top of the World",
+            "colAlbum": "Petty Troubles",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 18,
+            "colArtist": "Def Leppard",
+            "colTitle": "Pour Some Sugar on Me",
+            "colAlbum": "Pour Some Sugar On Me / Rock Of Ages 2012 (Re-Recorded Versions) - Single",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 19,
+            "colArtist": "Green Day",
+            "colTitle": "X-Kid",
+            "colAlbum": "Tre!",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 20,
+            "colArtist": "Hail the Sun",
+            "colTitle": "Eight-Ball, Coroner's Pocket",
+            "colAlbum": "Elephantitis",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 21,
+            "colArtist": "Screaming Females",
+            "colTitle": "Rotten Apple",
+            "colAlbum": "Ugly",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 22,
+            "colArtist": "Joe Satriani",
+            "colTitle": "Satch Boogie",
+            "colAlbum": "Surfing With the Alien",
+            "colArrangements": "Bass, Combo, Combo2",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 23,
+            "colArtist": "Sabaka",
+            "colTitle": "Monochromic",
+            "colAlbum": "Heavy Pets",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 24,
+            "colArtist": "Rush",
+            "colTitle": "The Spirit of Radio",
+            "colAlbum": "Permanent Waves",
+            "colArrangements": "Bass, Bass2, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 25,
+            "colArtist": "Iron Maiden",
+            "colTitle": "The Trooper",
+            "colAlbum": "Piece of Mind",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 26,
+            "colArtist": "Jaws",
+            "colTitle": "Stay In",
+            "colAlbum": "Milkshake",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 27,
+            "colArtist": "Jack White",
+            "colTitle": "Sixteen Saltines",
+            "colAlbum": "Blunderbuss",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 28,
+            "colArtist": "Rise Against",
+            "colTitle": "Savior",
+            "colAlbum": "Appeal to Reason",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 29,
+            "colArtist": "Tak Matsumoto",
+            "colTitle": "GO FURTHER",
+            "colAlbum": "KNOCKIN' \"T\" AROUND",
+            "colArrangements": "Bass, Combo, Combo2",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 30,
+            "colArtist": "Red Fang",
+            "colTitle": "Wires",
+            "colAlbum": "Murder the Mountains",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 31,
+            "colArtist": "Kiss",
+            "colTitle": "Rock and Roll All Nite",
+            "colAlbum": "Dressed to Kill",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 32,
+            "colArtist": "Ratt",
+            "colTitle": "Round and Round",
+            "colAlbum": "Out of the Cellar",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 33,
+            "colArtist": "Karawan",
+            "colTitle": "Desolate Motion",
+            "colAlbum": "Unreleased",
+            "colArrangements": "Bass, Combo, Combo2",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 34,
+            "colArtist": "Slayer",
+            "colTitle": "War Ensemble",
+            "colAlbum": "Seasons in the Abyss",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 35,
+            "colArtist": "Gold Motel",
+            "colTitle": "Brand New Kind of Blue",
+            "colAlbum": "Gold Motel",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 36,
+            "colArtist": "System of a Down",
+            "colTitle": "Hypnotize",
+            "colAlbum": "Hypnotize",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 37,
+            "colArtist": "Splashh",
+            "colTitle": "All I Wanna Do",
+            "colAlbum": "All I Wanna Do",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 38,
+            "colArtist": "Ubisoft",
+            "colTitle": "Rocksmith 2012 Theme",
+            "colAlbum": "Ubisoft",
+            "colArrangements": "Bass, Combo",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 39,
+            "colArtist": "Nirvana",
+            "colTitle": "Heart Shaped Box",
+            "colAlbum": "In Utero",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 40,
+            "colArtist": "Versus Them",
+            "colTitle": "Impossible Dreams",
+            "colAlbum": "Six AM Salvation",
+            "colArrangements": "Bass, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 41,
+            "colArtist": "Pantera",
+            "colTitle": "Cemetery Gates",
+            "colAlbum": "Cowboys From Hell",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 42,
+            "colArtist": "Bedowyn",
+            "colTitle": "Snarling of Beasts",
+            "colAlbum": "Wolves/Trees",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 43,
+            "colArtist": "The Who",
+            "colTitle": "My Generation",
+            "colAlbum": "My Generation",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 44,
+            "colArtist": "Paramore",
+            "colTitle": "Now",
+            "colAlbum": "Paramore",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 45,
+            "colArtist": "Foo Fighters",
+            "colTitle": "Everlong",
+            "colAlbum": "The Colour and the Shape",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 46,
+            "colArtist": "Tom Petty and the Heartbreakers",
+            "colTitle": "Mary Jane's Last Dance",
+            "colAlbum": "Greatest Hits",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 47,
+            "colArtist": "Aching Head",
+            "colTitle": "Self-Destruct",
+            "colAlbum": "Could You Not? Thanks.",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 48,
+            "colArtist": "Aerosmith",
+            "colTitle": "Walk This Way",
+            "colAlbum": "Toys in the Attic",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 49,
+            "colArtist": "White Zombie",
+            "colTitle": "ThunderKiss '65",
+            "colAlbum": "La Sexorcisto: Devil Music, Vol. 1",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 50,
+            "colArtist": "Weezer",
+            "colTitle": "Say It Ain't So",
+            "colAlbum": "Weezer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 51,
+            "colArtist": "Oasis",
+            "colTitle": "Don't Look Back in Anger",
+            "colAlbum": "(What's the Story) Morning Glory?",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 52,
+            "colArtist": "Arctic Monkeys",
+            "colTitle": "R U Mine?",
+            "colAlbum": "R U Mine",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 53,
+            "colArtist": "Avenged Sevenfold",
+            "colTitle": "Bat Country",
+            "colAlbum": "City Of Evil",
+            "colArrangements": "Bass, Lead1, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 54,
+            "colArtist": "Alice Cooper",
+            "colTitle": "No More Mr. Nice Guy",
+            "colAlbum": "Billion Dollar Babies",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 55,
+            "colArtist": "Alice in Chains",
+            "colTitle": "Stone",
+            "colAlbum": "The Devil Put Dinosaurs Here",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 56,
+            "colArtist": "Bush",
+            "colTitle": "Machinehead",
+            "colAlbum": "Sixteen Stone",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 57,
+            "colArtist": "Bob Dylan",
+            "colTitle": "Knockin' on Heaven's Door",
+            "colAlbum": "Pat Garrett And Billy The Kid",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 58,
+            "colArtist": "Paws",
+            "colTitle": "Sore Tummy",
+            "colAlbum": "Cokefloat!",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 59,
+            "colArtist": "Muse",
+            "colTitle": "Knights of Cydonia",
+            "colAlbum": "Black Holes And Revelations",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 60,
+            "colArtist": "B'z",
+            "colTitle": "ultra soul",
+            "colAlbum": "ultra soul",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 61,
+            "colArtist": "The Rolling Stones",
+            "colTitle": "Paint It, Black",
+            "colAlbum": "Aftermath",
+            "colArrangements": "Bass, Combo, Combo2, Rhythm, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 62,
+            "colArtist": "The Shins",
+            "colTitle": "For a Fool",
+            "colAlbum": "Port of Morrow",
+            "colArrangements": "Bass, Combo, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 63,
+            "colArtist": "Boston",
+            "colTitle": "Peace of Mind",
+            "colAlbum": "Boston",
+            "colArrangements": "Bass, Lead1, Lead2, Rhythm1, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 64,
+            "colArtist": "The Smashing Pumpkins",
+            "colTitle": "The Chimera",
+            "colAlbum": "Oceania",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 65,
+            "colArtist": "The Police",
+            "colTitle": "Every Breath You Take",
+            "colAlbum": "Synchronicity",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 66,
+            "colArtist": "ABBA",
+            "colTitle": "Dancing Queen",
+            "colAlbum": "Arrival",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 67,
+            "colArtist": "ABBA",
+            "colTitle": "Fernando",
+            "colAlbum": "Arrival",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 68,
+            "colArtist": "ABBA",
+            "colTitle": "Mamma Mia",
+            "colAlbum": "ABBA",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 69,
+            "colArtist": "HAIM",
+            "colTitle": "The Wire",
+            "colAlbum": "Days Are Gone",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 70,
+            "colArtist": "HAIM",
+            "colTitle": "Forever",
+            "colAlbum": "Days Are Gone",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 71,
+            "colArtist": "HAIM",
+            "colTitle": "Don't Save Me",
+            "colAlbum": "Days Are Gone",
+            "colArrangements": "Bass, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 72,
+            "colArtist": "Rush",
+            "colTitle": "Subdivisions",
+            "colAlbum": "Signals",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 73,
+            "colArtist": "Pantera",
+            "colTitle": "Domination",
+            "colAlbum": "Cowboys from Hell",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 74,
+            "colArtist": "Pantera",
+            "colTitle": "Cowboys from Hell",
+            "colAlbum": "Cowboys from Hell",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 75,
+            "colArtist": "Rush",
+            "colTitle": "Tom Sawyer",
+            "colAlbum": "Moving Pictures",
+            "colArrangements": "Bass, Combo1, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 76,
+            "colArtist": "Pearl Jam",
+            "colTitle": "Black",
+            "colAlbum": "Ten",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 77,
+            "colArtist": "Rush",
+            "colTitle": "YYZ",
+            "colAlbum": "Moving Pictures",
+            "colArrangements": "Bass, Combo, Combo2",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 78,
+            "colArtist": "Pixies",
+            "colTitle": "Here Comes Your Man",
+            "colAlbum": "Best of Pixies: Wave of Mutilation",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 79,
+            "colArtist": "Queen",
+            "colTitle": "Killer Queen",
+            "colAlbum": "Sheer Heart Attack",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 80,
+            "colArtist": "Pat Benatar",
+            "colTitle": "Hit Me with Your Best Shot",
+            "colAlbum": "Crimes of Passion",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 81,
+            "colArtist": "Ram Jam",
+            "colTitle": "Black Betty",
+            "colAlbum": "The Very Best of Ram Jam ",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 82,
+            "colArtist": "Radiohead",
+            "colTitle": "Bodysnatchers",
+            "colAlbum": "In Rainbows",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 83,
+            "colArtist": "Queen",
+            "colTitle": "Stone Cold Crazy",
+            "colAlbum": "Sheer Heart Attack",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 84,
+            "colArtist": "Queen",
+            "colTitle": "Bohemian Rhapsody",
+            "colAlbum": "A Night at the Opera",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Combo4, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 85,
+            "colArtist": "Parliament",
+            "colTitle": "Give Up the Funk (Tear the Roof off the Sucker)",
+            "colAlbum": "Mothership Connection",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 86,
+            "colArtist": "Pantera",
+            "colTitle": "Walk",
+            "colAlbum": "Vulgar Display of Power",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 87,
+            "colArtist": "Rise Against",
+            "colTitle": "The Good Left Undone",
+            "colAlbum": "The Sufferer And The Witness",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 88,
+            "colArtist": "Queen",
+            "colTitle": "Fat Bottomed Girls",
+            "colAlbum": "Jazz",
+            "colArrangements": "Bass, Combo1, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 89,
+            "colArtist": "Pearl Jam",
+            "colTitle": "Jeremy",
+            "colAlbum": "Ten",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 90,
+            "colArtist": "Rick Springfield",
+            "colTitle": "Jessie's Girl",
+            "colAlbum": "Working Class Dog",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 91,
+            "colArtist": "Queen",
+            "colTitle": "Keep Yourself Alive",
+            "colAlbum": "Queen",
+            "colArrangements": "Bass, Combo1, Lead1, Lead2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 92,
+            "colArtist": "Pearl Jam",
+            "colTitle": "Alive",
+            "colAlbum": "Ten",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 93,
+            "colArtist": "Rick James",
+            "colTitle": "Super Freak",
+            "colAlbum": "Street Songs",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 94,
+            "colArtist": "The Offspring",
+            "colTitle": "Come Out and Play (Keep 'Em Separated)",
+            "colAlbum": "Smash",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 95,
+            "colArtist": "The Offspring",
+            "colTitle": "Self Esteem",
+            "colAlbum": "Smash",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 96,
+            "colArtist": "The Police",
+            "colTitle": "Roxanne",
+            "colAlbum": "Outlandos d'Amour",
+            "colArrangements": "Bass, Combo1, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 97,
+            "colArtist": "The Police",
+            "colTitle": "Message in a Bottle",
+            "colAlbum": "Reggatta de Blanc",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 98,
+            "colArtist": "The Police",
+            "colTitle": "Synchronicity II",
+            "colAlbum": "Synchronicity",
+            "colArrangements": "Bass, Bass2, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 99,
+            "colArtist": "The Offspring",
+            "colTitle": "Gone Away",
+            "colAlbum": "Ixnay on the Hombre",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 100,
+            "colArtist": "The Cure",
+            "colTitle": "Lovesong",
+            "colAlbum": "Disintegration",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 101,
+            "colArtist": "The Cure",
+            "colTitle": "Just Like Heaven",
+            "colAlbum": "Kiss Me, Kiss Me, Kiss Me",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 102,
+            "colArtist": "The Darkness",
+            "colTitle": "I Believe in a Thing Called Love",
+            "colAlbum": "I Believe in a Thing Called Love",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 103,
+            "colArtist": "The Knack",
+            "colTitle": "My Sharona",
+            "colAlbum": "Get The Knack",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 104,
+            "colArtist": "The Guess Who",
+            "colTitle": "American Woman",
+            "colAlbum": "American Woman",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 105,
+            "colArtist": "The Shins",
+            "colTitle": "Caring Is Creepy",
+            "colAlbum": "Oh, Inverted World",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 106,
+            "colArtist": "Twisted Sister",
+            "colTitle": "We're Not Gonna Take It",
+            "colAlbum": "Stay Hungry",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 107,
+            "colArtist": "Tommy Tutone",
+            "colTitle": "867-5309/Jenny",
+            "colAlbum": "Tommy Tutone 2",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 108,
+            "colArtist": "Vampire Weekend",
+            "colTitle": "Cousins",
+            "colAlbum": "Contra",
+            "colArrangements": "Bass, Bass2, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 109,
+            "colArtist": "Violent Femmes",
+            "colTitle": "Blister in the Sun",
+            "colAlbum": "Violent Femmes",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 110,
+            "colArtist": "Versus Them",
+            "colTitle": "We Three Kings",
+            "colAlbum": "We Three Kings",
+            "colArrangements": "Bass, Combo",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 111,
+            "colArtist": "Three Days Grace",
+            "colTitle": "I Hate Everything About You",
+            "colAlbum": "Three Days Grace",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 112,
+            "colArtist": "The Strokes",
+            "colTitle": "Reptilia",
+            "colAlbum": "Room on Fire",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 113,
+            "colArtist": "The Strokes",
+            "colTitle": "Last Nite",
+            "colAlbum": "Is This It",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 114,
+            "colArtist": "The Strokes",
+            "colTitle": "Juicebox",
+            "colAlbum": "First Impressions of Earth",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 115,
+            "colArtist": "The Vines",
+            "colTitle": "Get Free",
+            "colAlbum": "Highly Evovled",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 116,
+            "colArtist": "The Temptations",
+            "colTitle": "My Girl",
+            "colAlbum": "Motown Legends",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 117,
+            "colArtist": "The Cure",
+            "colTitle": "The End of the World",
+            "colAlbum": "The Cure",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 118,
+            "colArtist": "Steppenwolf",
+            "colTitle": "Born to Be Wild",
+            "colAlbum": "Steppenwolf",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 119,
+            "colArtist": "Seth Chapla",
+            "colTitle": "Carol of the Bells",
+            "colAlbum": "Carol of the Bells",
+            "colArrangements": "Bass, Combo1, Lead",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 120,
+            "colArtist": "Survivor",
+            "colTitle": "Eye of the Tiger",
+            "colAlbum": "Eye of the Tiger",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 121,
+            "colArtist": "Whitesnake",
+            "colTitle": "Is This Love",
+            "colAlbum": "Whitesnake",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 122,
+            "colArtist": "Sweet",
+            "colTitle": "Ballroom Blitz",
+            "colAlbum": "Sweet Fanny Adams",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 123,
+            "colArtist": "Santana",
+            "colTitle": "Smooth",
+            "colAlbum": "Supernatural",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 124,
+            "colArtist": "Rush",
+            "colTitle": "Red Barchetta",
+            "colAlbum": "Moving Pictures",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 125,
+            "colArtist": "Rush",
+            "colTitle": "Headlong Flight",
+            "colAlbum": "Clockwork Angels",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 126,
+            "colArtist": "Rush",
+            "colTitle": "Limelight",
+            "colAlbum": "Moving Pictures",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 127,
+            "colArtist": "Santana",
+            "colTitle": "Black Magic Woman",
+            "colAlbum": "Ultimate Santana",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 128,
+            "colArtist": "Santana",
+            "colTitle": "Oye Como Va",
+            "colAlbum": "Ultimate Santana",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 129,
+            "colArtist": "T. Rex",
+            "colTitle": "20th Century Boy",
+            "colAlbum": "Tanx",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 130,
+            "colArtist": "The Blues Brothers",
+            "colTitle": "Soul Man",
+            "colAlbum": "Briefcase Full of Blues",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 131,
+            "colArtist": "The Black Keys",
+            "colTitle": "Tighten Up",
+            "colAlbum": "Brothers",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 132,
+            "colArtist": "The Clash",
+            "colTitle": "Should I Stay or Should I Go",
+            "colAlbum": "Combat Rock",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 133,
+            "colArtist": "The Clash",
+            "colTitle": "Guns of Brixton",
+            "colAlbum": "London Calling",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 134,
+            "colArtist": "The Clash",
+            "colTitle": "London Calling",
+            "colAlbum": "London Calling",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 135,
+            "colArtist": "The Black Keys",
+            "colTitle": "Mind Eraser",
+            "colAlbum": "El Camino",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 136,
+            "colArtist": "The Allman Brothers Band",
+            "colTitle": "Whipping Post",
+            "colAlbum": "The Allman Brothers Band",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 137,
+            "colArtist": "The Allman Brothers Band",
+            "colTitle": "Southbound",
+            "colAlbum": "Brothers and Sisters",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 138,
+            "colArtist": "The Allman Brothers Band",
+            "colTitle": "Jessica",
+            "colAlbum": "Brothers and Sisters",
+            "colArrangements": "Bass, Combo",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 139,
+            "colArtist": "The Black Keys",
+            "colTitle": "Gold on the Ceiling",
+            "colAlbum": "El Camino",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 140,
+            "colArtist": "The Black Keys",
+            "colTitle": "Just Got to Be",
+            "colAlbum": "Magic Potion",
+            "colArrangements": "Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 141,
+            "colArtist": "Otis Redding",
+            "colTitle": "(Sittin' On) The Dock of the Bay",
+            "colAlbum": "The Dock of the Bay",
+            "colArrangements": "Bass, Combo1, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 142,
+            "colArtist": "Blue Öyster Cult",
+            "colTitle": "Godzilla",
+            "colAlbum": "Spectres",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 143,
+            "colArtist": "Foster The People",
+            "colTitle": "Pumped Up Kicks",
+            "colAlbum": "Torches",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 144,
+            "colArtist": "Blondie",
+            "colTitle": "Call Me",
+            "colAlbum": "Call Me",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 145,
+            "colArtist": "Blue Öyster Cult",
+            "colTitle": "(Don't Fear) The Reaper",
+            "colAlbum": "Agents of Fortune",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 146,
+            "colArtist": "Foo Fighters",
+            "colTitle": "My Hero",
+            "colAlbum": "The Colour and the Shape ",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 147,
+            "colArtist": "Blue Öyster Cult",
+            "colTitle": "Burnin' for You",
+            "colAlbum": "Fire of Unknown Origin",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 148,
+            "colArtist": "Boston",
+            "colTitle": "More Than a Feeling",
+            "colAlbum": "Boston",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 149,
+            "colArtist": "Foo Fighters",
+            "colTitle": "Times Like These",
+            "colAlbum": "One By One",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 150,
+            "colArtist": "Foo Fighters",
+            "colTitle": "Wheels",
+            "colAlbum": "Greatest Hits",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 151,
+            "colArtist": "Gary Clark Jr.",
+            "colTitle": "Bright Lights",
+            "colAlbum": "The Bright Lights EP",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 152,
+            "colArtist": "B.B. King",
+            "colTitle": "The Thrill Is Gone",
+            "colAlbum": "Completely Well",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 153,
+            "colArtist": "Grace Potter & The Nocturnals",
+            "colTitle": "Paris (Ooh La La)",
+            "colAlbum": "Grace Potter & The Nocturnals",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 154,
+            "colArtist": "Incubus",
+            "colTitle": "Wish You Were Here",
+            "colAlbum": "Morning View",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 155,
+            "colArtist": "Heart",
+            "colTitle": "Barracuda",
+            "colAlbum": "Little Queen",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 156,
+            "colArtist": "Billy Idol",
+            "colTitle": "White Wedding - Part 1",
+            "colAlbum": "Billy Idol",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 157,
+            "colArtist": "blink-182",
+            "colTitle": "Dammit",
+            "colAlbum": "Dude Ranch",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 158,
+            "colArtist": "blink-182",
+            "colTitle": "What's My Age Again?",
+            "colAlbum": "Enema of the State",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 159,
+            "colArtist": "Blind Melon",
+            "colTitle": "No Rain",
+            "colAlbum": "Blind Melon",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 160,
+            "colArtist": "blink-182",
+            "colTitle": "All the Small Things",
+            "colAlbum": "Enema of the State",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 161,
+            "colArtist": "Foo Fighters",
+            "colTitle": "Walk",
+            "colAlbum": "Wasting Light",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 162,
+            "colArtist": "Chic",
+            "colTitle": "Good Times",
+            "colAlbum": "Risque",
+            "colArrangements": "Bass, Combo, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 163,
+            "colArtist": "Dobie Gray",
+            "colTitle": "Drift Away",
+            "colAlbum": "Ultimate Collection",
+            "colArrangements": "Bass, Combo1, Combo2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 164,
+            "colArtist": "Brian Adam McCune",
+            "colTitle": "God Rest Ye Merry, Gentlemen",
+            "colAlbum": "God Rest Ye Merry, Gentlemen",
+            "colArrangements": "Bass, Lead1, Lead2",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 165,
+            "colArtist": "Cheap Trick",
+            "colTitle": "Surrender",
+            "colAlbum": "Heaven Tonight",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 166,
+            "colArtist": "Deep Purple",
+            "colTitle": "Smoke on the Water",
+            "colAlbum": "Machine Head",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 167,
+            "colArtist": "Creedence Clearwater Revival",
+            "colTitle": "Born on the Bayou",
+            "colAlbum": "Bayou Country",
+            "colArrangements": "Bass, Combo1, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 168,
+            "colArtist": "Creedence Clearwater Revival",
+            "colTitle": "Have You Ever Seen the Rain?",
+            "colAlbum": "Pendulum",
+            "colArrangements": "Bass, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 169,
+            "colArtist": "David Bowie",
+            "colTitle": "The Man Who Sold the World",
+            "colAlbum": "The Man Who Sold the World",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 170,
+            "colArtist": "David Bowie",
+            "colTitle": "Space Oddity",
+            "colAlbum": "Space Oddity",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 171,
+            "colArtist": "Eric Johnson",
+            "colTitle": "Cliffs of Dover",
+            "colAlbum": "Ah Via Musicom",
+            "colArrangements": "Bass, Combo",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 172,
+            "colArtist": "Fall Out Boy",
+            "colTitle": "I Don't Care",
+            "colAlbum": "Folie a Deux",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 173,
+            "colArtist": "Fall Out Boy",
+            "colTitle": "Dance, Dance",
+            "colAlbum": "From Under the Cork Tree",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 174,
+            "colArtist": "Foo Fighters",
+            "colTitle": "Best of You",
+            "colAlbum": "In Your Honor",
+            "colArrangements": "Bass, Combo, Combo2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 175,
+            "colArtist": "Finger Eleven",
+            "colTitle": "Paralyzer",
+            "colAlbum": "Them vs. You vs. Me",
+            "colArrangements": "Bass, Combo, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 176,
+            "colArtist": "Fall Out Boy",
+            "colTitle": "Thnks fr th Mmrs",
+            "colAlbum": "Infinity on High",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 177,
+            "colArtist": "Evanescence",
+            "colTitle": "Bring Me to Life",
+            "colAlbum": "Fallen",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 178,
+            "colArtist": "Europe",
+            "colTitle": "The Final Countdown",
+            "colAlbum": "The Final Countdown",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 179,
+            "colArtist": "Fall Out Boy",
+            "colTitle": "America's Suitehearts",
+            "colAlbum": "Folie a Deux",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 180,
+            "colArtist": "Fall Out Boy",
+            "colTitle": "Sugar, We're Goin Down",
+            "colAlbum": "From Under the Cork Tree",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 181,
+            "colArtist": "Incubus",
+            "colTitle": "Anna Molly",
+            "colAlbum": "Light Grenades",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 182,
+            "colArtist": "3 Doors Down",
+            "colTitle": "Loser",
+            "colAlbum": "The Better Life",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 183,
+            "colArtist": "Megadeth",
+            "colTitle": "Hangar 18",
+            "colAlbum": "Rust In Peace",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 184,
+            "colArtist": "Megadeth",
+            "colTitle": "Public Enemy No. 1",
+            "colAlbum": "TH1RT3EN",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 185,
+            "colArtist": "Megadeth",
+            "colTitle": "Symphony of Destruction",
+            "colAlbum": "Countdown To Extinction",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 186,
+            "colArtist": "Marvin Gaye",
+            "colTitle": "What's Going On",
+            "colAlbum": "What's Going On",
+            "colArrangements": "Bass, Combo1, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 187,
+            "colArtist": "Maroon 5",
+            "colTitle": "She Will Be Loved",
+            "colAlbum": "Songs About Jane",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 188,
+            "colArtist": "Maroon 5",
+            "colTitle": "Misery",
+            "colAlbum": "Hands All Over",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 189,
+            "colArtist": "Maroon 5",
+            "colTitle": "This Love",
+            "colAlbum": "Songs About Jane",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 190,
+            "colArtist": "Maroon 5",
+            "colTitle": "Harder to Breathe",
+            "colAlbum": "Songs About Jane",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 191,
+            "colArtist": "Modest Mouse",
+            "colTitle": "Float On",
+            "colAlbum": "Good News for People Who Love Bad News",
+            "colArrangements": "Bass, Combo, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 192,
+            "colArtist": "Nickelback",
+            "colTitle": "How You Remind Me",
+            "colAlbum": "Silver Side Up",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 193,
+            "colArtist": "Nickelback",
+            "colTitle": "Bottoms Up",
+            "colAlbum": "Here and Now",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 194,
+            "colArtist": "3 Doors Down",
+            "colTitle": "Kryptonite",
+            "colAlbum": "The Better Life",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 195,
+            "colArtist": "3 Doors Down",
+            "colTitle": "When I'm Gone",
+            "colAlbum": "Away from the Sun",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 196,
+            "colArtist": "Nickelback",
+            "colTitle": "Rockstar",
+            "colAlbum": "All the Right Reasons",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 197,
+            "colArtist": "My Chemical Romance",
+            "colTitle": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+            "colAlbum": "Danger Days: The True Lives of the Fabulous Killjoys",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 198,
+            "colArtist": "Mountain",
+            "colTitle": "Mississippi Queen",
+            "colAlbum": "Climbing!",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 199,
+            "colArtist": "My Chemical Romance",
+            "colTitle": "Planetary (GO!)",
+            "colAlbum": "Danger Days: The True Lives of the Fabulous Killjoys",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 200,
+            "colArtist": "My Chemical Romance",
+            "colTitle": "Welcome to the Black Parade",
+            "colAlbum": "The Black Parade",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 201,
+            "colArtist": "Judas Priest",
+            "colTitle": "Living After Midnight",
+            "colAlbum": "British Steel",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 202,
+            "colArtist": "Judas Priest",
+            "colTitle": "Painkiller",
+            "colAlbum": "Painkiller",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 203,
+            "colArtist": "Judas Priest",
+            "colTitle": "You've Got Another Thing Comin'",
+            "colAlbum": "Screaming for Vengeance",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 204,
+            "colArtist": "Avenged Sevenfold",
+            "colTitle": "Nightmare",
+            "colAlbum": "Nightmare",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 205,
+            "colArtist": "Kansas",
+            "colTitle": "Carry On Wayward Son",
+            "colAlbum": "Leftoverture",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 206,
+            "colArtist": "Iron Butterfly",
+            "colTitle": "In-A-Gadda-Da-Vida",
+            "colAlbum": "In-A-Gadda-Da-Vida",
+            "colArrangements": "Bass, Combo1, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 207,
+            "colArtist": "Incubus",
+            "colTitle": "Love Hurts",
+            "colAlbum": "Light Grenades",
+            "colArrangements": "Bass, Combo, Combo2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 208,
+            "colArtist": "Avenged Sevenfold",
+            "colTitle": "Afterlife",
+            "colAlbum": "Avenged Sevenfold",
+            "colArrangements": "Bass, Combo1, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 209,
+            "colArtist": "Judas Priest",
+            "colTitle": "Breaking the Law",
+            "colAlbum": "British Steel",
+            "colArrangements": "Bass, Combo1, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 210,
+            "colArtist": "Avenged Sevenfold",
+            "colTitle": "Beast and the Harlot",
+            "colAlbum": "City of Evil",
+            "colArrangements": "Bass, Combo, Combo2, Combo3, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 211,
+            "colArtist": "Albert King with Stevie Ray Vaughan",
+            "colTitle": "Born Under a Bad Sign",
+            "colAlbum": "In Session",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 212,
+            "colArtist": "Lamb of God",
+            "colTitle": "Redneck",
+            "colAlbum": "Sacrament",
+            "colArrangements": "Bass, Combo1, Combo2, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 213,
+            "colArtist": "Living Colour",
+            "colTitle": "Cult of Personality",
+            "colAlbum": "Vivid",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 214,
+            "colArtist": "Lynyrd Skynyrd",
+            "colTitle": "Free Bird",
+            "colAlbum": "Pronounced Leh-Nerd Skin-Nerd",
+            "colArrangements": "Bass, Combo, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 215,
+            "colArtist": "The Smashing Pumpkins",
+            "colTitle": "Cherub Rock",
+            "colAlbum": "Siamese Dream",
+            "colArrangements": "Bass, Combo, Combo2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 216,
+            "colArtist": "Green Day",
+            "colTitle": "Basket Case",
+            "colAlbum": "Dookie",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 217,
+            "colArtist": "Weezer",
+            "colTitle": "Island in the Sun",
+            "colAlbum": "Weezer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 218,
+            "colArtist": "Weezer",
+            "colTitle": "Buddy Holly",
+            "colAlbum": "Weezer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 219,
+            "colArtist": "Weezer",
+            "colTitle": "Undone (The Sweater Song)",
+            "colAlbum": "Weezer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 220,
+            "colArtist": "Oasis",
+            "colTitle": "Wonderwall",
+            "colAlbum": "(What's the Story) Morning Glory?",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 221,
+            "colArtist": "Heart",
+            "colTitle": "Crazy on You",
+            "colAlbum": "Dreamboat Annie",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 222,
+            "colArtist": "Matchbox Twenty",
+            "colTitle": "3AM",
+            "colAlbum": "Yourself or Someone Like You",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 223,
+            "colArtist": "Matchbox Twenty",
+            "colTitle": "Unwell",
+            "colAlbum": "More Than You Think You Are",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 224,
+            "colArtist": "Sum 41",
+            "colTitle": "In Too Deep",
+            "colAlbum": "All Killer, No Filler",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 225,
+            "colArtist": "Toto",
+            "colTitle": "Hold the Line",
+            "colAlbum": "Toto",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 226,
+            "colArtist": "The Killers",
+            "colTitle": "Mr. Brightside",
+            "colAlbum": "Hot Fuzz",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 227,
+            "colArtist": "The Killers",
+            "colTitle": "When You Were Young",
+            "colAlbum": "Sam's Town",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 228,
+            "colArtist": "The Killers",
+            "colTitle": "Somebody Told Me",
+            "colAlbum": "Hot Fuss",
+            "colArrangements": "Bass, Lead, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 229,
+            "colArtist": "Flogging Molly",
+            "colTitle": "Drunken Lullabies",
+            "colAlbum": "Drunken Lullabies",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 230,
+            "colArtist": "The Cure",
+            "colTitle": "Friday I'm in Love",
+            "colAlbum": "Wish",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 231,
+            "colArtist": "Social Distortion",
+            "colTitle": "Story of my Life",
+            "colAlbum": "Social Distortion",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 232,
+            "colArtist": "The All-American Rejects",
+            "colTitle": "Dirty Little Secret",
+            "colAlbum": "Move Along",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 233,
+            "colArtist": "The All-American Rejects",
+            "colTitle": "Move Along",
+            "colAlbum": "Move Along",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 234,
+            "colArtist": "The All-American Rejects",
+            "colTitle": "Gives You Hell",
+            "colAlbum": "When the World Comes Down",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 235,
+            "colArtist": "Toto",
+            "colTitle": "Rosanna",
+            "colAlbum": "Toto IV",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 236,
+            "colArtist": "Sixpence None the Richer",
+            "colTitle": "Kiss Me",
+            "colAlbum": "Sixpence None the Richer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 237,
+            "colArtist": "Sister Hazel",
+            "colTitle": "All for You",
+            "colAlbum": "...Somewhere More Familiar",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 238,
+            "colArtist": "Daryl Hall and John Oates",
+            "colTitle": "You Make My Dreams",
+            "colAlbum": "Voices",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 239,
+            "colArtist": "Of Monsters and Men",
+            "colTitle": "Little Talks",
+            "colAlbum": "My Head Is an Animal",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 240,
+            "colArtist": "Eagle-Eye Cherry",
+            "colTitle": "Save Tonight",
+            "colAlbum": "Desireless",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 241,
+            "colArtist": "SR-71",
+            "colTitle": "Right Now",
+            "colAlbum": "Now You See Inside",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 242,
+            "colArtist": "Kenny Rogers",
+            "colTitle": "The Gambler",
+            "colAlbum": "The Gambler",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 243,
+            "colArtist": "Queen and David Bowie",
+            "colTitle": "Under Pressure",
+            "colAlbum": "Hot Space",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 244,
+            "colArtist": "Elvis Presley",
+            "colTitle": "Suspicious Minds",
+            "colAlbum": "Suspicious Minds",
+            "colArrangements": "Bass, Lead, Lead3, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 245,
+            "colArtist": "Jackson 5",
+            "colTitle": "I Want You Back",
+            "colAlbum": "Diana Ross Presents the Jackson 5",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 246,
+            "colArtist": "Bob Marley & The Wailers",
+            "colTitle": "Three Little Birds",
+            "colAlbum": "Exodus",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 247,
+            "colArtist": "Train",
+            "colTitle": "Drops of Jupiter",
+            "colAlbum": "Drops Of Jupiter",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 248,
+            "colArtist": "OutKast",
+            "colTitle": "Hey Ya!",
+            "colAlbum": "The Love Below",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 249,
+            "colArtist": "FUN.",
+            "colTitle": "Some Nights",
+            "colAlbum": "Some Nights",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 250,
+            "colArtist": "Simple Minds",
+            "colTitle": "Don't You (Forget About Me)",
+            "colAlbum": "Don't You (Forget About Me)",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 251,
+            "colArtist": "Kenny Loggins",
+            "colTitle": "Footloose",
+            "colAlbum": "Footloose",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 252,
+            "colArtist": "Twisted Sister",
+            "colTitle": "I Wanna Rock",
+            "colAlbum": "Stay Hungry",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 253,
+            "colArtist": "Goldfinger",
+            "colTitle": "Superman",
+            "colAlbum": "Hang-Ups",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 254,
+            "colArtist": "Blue Swede",
+            "colTitle": "Hooked on a Feeling",
+            "colAlbum": "Hooked on a Feeling",
+            "colArrangements": "Bass, Lead, Rhythm, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 255,
+            "colArtist": "Grateful Dead",
+            "colTitle": "Uncle John's Band",
+            "colAlbum": "Workingman's Dead",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 256,
+            "colArtist": "Jim Croce",
+            "colTitle": "Time in a Bottle",
+            "colAlbum": "You Don't Mess Around with Jim",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 257,
+            "colArtist": "Spin Doctors",
+            "colTitle": "Little Miss Can't Be Wrong",
+            "colAlbum": "Pocket Full of Kryptonite",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 258,
+            "colArtist": "Paramore",
+            "colTitle": "Still Into You",
+            "colAlbum": "Paramore",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 259,
+            "colArtist": "Mumford & Sons",
+            "colTitle": "The Cave",
+            "colAlbum": "Sigh No More",
+            "colArrangements": "Bass, Lead, Rhythm, Rhythm2, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 260,
+            "colArtist": "a-ha",
+            "colTitle": "Take On Me",
+            "colAlbum": "Hunting High and Low",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 261,
+            "colArtist": "Queen",
+            "colTitle": "Don't Stop Me Now",
+            "colAlbum": "Jazz",
+            "colArrangements": "Bass, Lead, Lead2, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 262,
+            "colArtist": "Elvis Presley",
+            "colTitle": "Blue Christmas",
+            "colAlbum": "Elvis' Christmas Album",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 263,
+            "colArtist": "Chuck Berry",
+            "colTitle": "Run, Rudolph, Run",
+            "colAlbum": "Run, Rudolph, Run",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 264,
+            "colArtist": "Brenda Lee",
+            "colTitle": "Rockin' Around the Christmas Tree",
+            "colAlbum": "Rockin' Around the Christmas Tree",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 265,
+            "colArtist": "Gene Autry",
+            "colTitle": "Rudolph the Red-Nosed Reindeer",
+            "colAlbum": "Rudolph the Red-Nosed Reindeer",
+            "colArrangements": "Bass, Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 266,
+            "colArtist": "Wheatus",
+            "colTitle": "Teenage Dirtbag",
+            "colAlbum": "Wheatus",
+            "colArrangements": "Bass, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        },
+        {
+            "rowId": 267,
+            "colArtist": "Funkadelic",
+            "colTitle": "Maggot Brain",
+            "colAlbum": "Maggot Brain",
+            "colArrangements": "Lead, Rhythm, Vocals",
+            "colTagged": "ODLC"
+        }
+    ]
+}
