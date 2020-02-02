@@ -8,7 +8,7 @@ class App extends React.Component {
         super(props);
         this.state = {
             searchCriteria: "",
-            searchResults: [{}],
+            searchResults: masterList.dgvSongsMaster,
             tempDatabase: masterList,
         };
     }
@@ -30,21 +30,27 @@ class App extends React.Component {
             }
         });
 
-
-        this.setState({
-            searchCriteria: event.target.value,
-            searchResults: stepHolder,
-        });
-
-        //console.log(event.target.value);
-        console.log(JSON.stringify(stepHolder));
+        if (Array.isArray(stepHolder) && !stepHolder.length) {
+            this.setState({
+                searchCriteria: event.target.value,
+                searchResults: this.state.tempDatabase,
+            });
+        } else {
+            this.setState({
+                searchCriteria: event.target.value,
+                searchResults: stepHolder,
+            });
+        }
     }
 
+
+
     render() {
+
         return (
             <div className="App">
                 <SearchBar searchCriteria={this.state.searchCriteria} onChange={(i) => this.Search(i)} />
-                <ResultsArea />
+                <ResultsArea searchResults={this.state.searchResults} />
             </div>
         );
     }
@@ -52,17 +58,6 @@ class App extends React.Component {
 
 function SearchBar(props) {
 
-    /*constructor(props) {
-        super(props);
-        this.state = {
-            searchCriteria: "",
-            searchResults: [{}],
-
-            tempDatabase: masterList,
-        };
-
-        this.Search = this.Search.bind(this);
-    }*/
     return (
         <div className="searchBar">
             <input type="text" placeholder="Search"
@@ -74,39 +69,43 @@ function SearchBar(props) {
 
 function SearchItem(props) {
     return (
-        <div className="searchItem">
+
+        
+        <li className="searchItem" key={props.value.rowId}>
             <div className="itemVideo">
-                <video className="video" controls>
-                    <source src={props.video} type="video/mp4" />
-                    Your browser does not support the video tag
-                </video>
+                
             </div>
             <div className="itemInfo">
-                <p className="itemArtist">{props.artist}</p>
-                <p className="itemTitle">{props.title}</p>
+                <p className="itemArtist">{props.value.colArtist}</p>
+                <p className="itemTitle">{props.value.colTitle}</p>
+                <p className="itemAlbum">{props.value.colAlbum}</p>
                 <div className="availParts">
-                    {props.parts}
+                    {props.value.colArrangements}
                 </div>              
             </div>
-        </div>
+        </li>
     );
 }
 
-class ResultsArea extends React.Component {
+function renderResults(props) {
+    return (
+        <SearchItem value={props}/>
+    );
+};
 
-    renderResults(i) {
-        return (
-            <SearchItem value={this.props.item[i]} />
-        )
-    };
+function ResultsArea(props) {
 
-    render() {
-        return (
-            <div className="resultsArea">
+    let results = [];
 
-            </div>
-        );
+    for (let i = 0; i < props.searchResults.length; i++) {
+        results.push(renderResults(props.searchResults[i]));
     }
+
+    return (
+        <ul className="resultsArea">
+            {results}
+        </ul>
+    );
 }
 
 export default App;
