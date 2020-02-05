@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import masterList from './list';
 import './App.css';
+import Slider from 'react-slick'
 
 class App extends React.Component {
     constructor(props) {
@@ -43,14 +44,12 @@ class App extends React.Component {
         }
     }
 
-
-
     render() {
 
         return (
             <div className="App">
                 <SearchBar searchCriteria={this.state.searchCriteria} onChange={(i) => this.Search(i)} />
-                <ResultsArea searchResults={this.state.searchResults} />
+                <ResultsArea searchResults={this.state.searchResults}/>
             </div>
         );
     }
@@ -68,44 +67,72 @@ function SearchBar(props) {
 }
 
 function SearchItem(props) {
-    return (
 
-        
-        <li className="searchItem" key={props.value.rowId}>
+    return (
+        <div className="searchItem">
             <div className="itemVideo">
                 
             </div>
             <div className="itemInfo">
-                <p className="itemArtist">{props.value.colArtist}</p>
-                <p className="itemTitle">{props.value.colTitle}</p>
-                <p className="itemAlbum">{props.value.colAlbum}</p>
+                <p className="itemArtist">{props.colArtist}</p>
+                <p className="itemTitle">{props.colTitle}</p>
+                <p className="itemAlbum">{props.colAlbum}</p>
                 <div className="availParts">
-                    {props.value.colArrangements}
-                </div>              
+                    {props.colArrangements}
+                </div>
             </div>
-        </li>
+        </div>
     );
 }
 
-function renderResults(props) {
-    return (
-        <SearchItem value={props}/>
-    );
-};
+class ResultsArea extends React.Component {
 
-function ResultsArea(props) {
-
-    let results = [];
-
-    for (let i = 0; i < props.searchResults.length; i++) {
-        results.push(renderResults(props.searchResults[i]));
+    constructor(props) {
+        super(props);
+        this.scrollCheck = this.scrollCheck.bind(this);
     }
 
-    return (
-        <ul className="resultsArea">
-            {results}
-        </ul>
-    );
+
+    scrollCheck(event) {
+
+        console.log(this.slider.current);
+        if (event.deltaY > 0) {
+            console.log("Mouse Wheel Changed");
+            this.slider.slickNext();
+        } else {
+            console.log("Mouse Wheel Chonged");
+            this.slider.slickPrev();
+
+        }
+    }
+
+    render() {
+
+        const settings = {
+            slidesToShow: 3,
+            speed: 50,
+            swipetoSlide: true,
+            touchMove: true,
+            infinite: true,
+            centerMode: true,
+            className: "middle",
+            centerPadding: "60px",
+        };
+
+        let results = [];
+
+        for (let i = 0; i < this.props.searchResults.length; i++) {
+            results.push(SearchItem(this.props.searchResults[i]));
+        }
+
+        return (
+            <div className="container" onWheel={(i) => this.scrollCheck(i)}>
+                <Slider ref={c=>(this.slider = c)} {...settings}>
+                    {results}
+                </Slider>
+            </div>
+        );
+    }
 }
 
 export default App;
